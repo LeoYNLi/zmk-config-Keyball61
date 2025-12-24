@@ -58,7 +58,7 @@
 &trans     &trans           &trans        &trans        &trans        &trans                       &trans     &trans          &kp UP_ARROW    &trans            &trans             &kp END
 &trans     &bt BT_CLR       &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &trans                       &trans     &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT         &trans             &kp PAGE_UP
 &trans     &trans           &trans        &trans        &trans        &trans       &trans  &trans  &kp MINUS  &kp EQUAL       &trans          &trans            &trans             &kp PAGE_DOWN
-&trans     &trans           &trans        &trans        &trans        &trans       &trans  &to 4   &tog 0                                                       &trans             &trans
+&trans     &trans           &trans        &trans        &trans        &trans       &trans  &to 4   &to 0                                                        &trans             &trans
             >;
         };
 
