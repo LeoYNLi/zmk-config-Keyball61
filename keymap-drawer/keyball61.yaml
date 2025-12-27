@@ -61,7 +61,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - SYM
   - $$mdi:apple-keyboard-option$$
-  - $$mdi:backspace-reverse-outline$$
+  - $$mdi:apple-keyboard-control$$
   NUM:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '1', s: '!'}
@@ -184,8 +184,8 @@ layers:
   - {t: FUN, h: toggle}
   - {t: MOUSE, h: toggle}
   - {type: held}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:volume-high$$
+  - $$mdi:volume-low$$
   FUN:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
