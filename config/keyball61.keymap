@@ -35,7 +35,7 @@
 &kp TAB         &kp Q         &kp W             &kp E   &kp R   &kp T                                    &kp Y   &kp U   &kp I      &kp O    &kp P          &kp BACKSLASH
 &kp CAPS        &kp A         &kp S             &kp D   &kp F   &kp G                                    &kp H   &kp J   &kp K      &kp L    &kp SEMI       &kp SQT
 &kp LEFT_SHIFT  &kp Z         &kp X             &kp C   &kp V   &kp B        &kp PAGE_UP  &kp PAGE_DOWN  &kp N   &kp M   &kp COMMA  &kp DOT  &kp FSLH       &kp RIGHT_SHIFT
-&kp LCTRL       &kp LEFT_ALT  &kp LEFT_COMMAND  &mo 3   &mo 6   &lt 4 SPACE  &mo 5        &kp ENTER      &mo 2                               &kp RIGHT_ALT  &kp DELETE
+&kp LCTRL       &kp LEFT_ALT  &kp LEFT_COMMAND  &mo 3   &mo 6   &lt 4 SPACE  &mo 5        &kp ENTER      &mo 2                               &kp RIGHT_ALT  &kp RIGHT_CONTROL
             >;
         };
 
@@ -58,7 +58,7 @@
 &trans     &trans           &trans        &trans        &trans        &trans                       &trans     &trans          &kp UP_ARROW    &trans            &trans             &kp END
 &trans     &bt BT_CLR       &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &trans                       &trans     &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT         &trans             &kp PAGE_UP
 &trans     &trans           &trans        &trans        &trans        &trans       &trans  &trans  &kp MINUS  &kp EQUAL       &trans          &trans            &trans             &kp PAGE_DOWN
-&trans     &trans           &trans        &trans        &trans        &trans       &to 3   &to 4   &trans                                                       &trans             &trans
+&trans     &trans           &trans        &trans        &trans        &trans       &to 3   &to 4   &trans                                                       &kp C_VOLUME_UP    &kp C_VOLUME_DOWN
             >;
         };
 
