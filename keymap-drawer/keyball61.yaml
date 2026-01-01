@@ -184,8 +184,8 @@ layers:
   - {t: FUN, h: toggle}
   - {t: MOUSE, h: toggle}
   - {type: held}
-  - $$mdi:volume-high$$
   - $$mdi:volume-low$$
+  - $$mdi:volume-high$$
   FUN:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
